@@ -1,7 +1,7 @@
-name: "10-COVID19_neo_20_a"
+name: 10-COVID19_neo_20_a
 output_dir: ../docs
 navbar:
-  title: "10-COVID19_neo_20_a"
+  title: 10-COVID19_neo_20_a
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,10 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/beejis/10-COVID19_neo_20_a
 output:
   workflowr::wflow_html:
     toc: yes
