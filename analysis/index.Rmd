@@ -8,4 +8,20 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+Research website for the neonatal portion of the COVID-19 Washington State registry. 
+
+Questions:
+
+Is there vertical transmission?
+What are the most common diagnoses for neonates born to mothers who were COVID+ during gestation?
+Is there increased preterm birth?
+How does COVID-19 affect intra-uterine and extra-uterine neonatal growth?
+
+Collaborators:
+
+Kristina Adams Waldorf
+Erica Lokken
+Jasmine Rah
+
+Status:
+Analysis (10/16/2020)
